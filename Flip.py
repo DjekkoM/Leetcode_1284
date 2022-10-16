@@ -53,7 +53,7 @@ def Flip(i,j):
 
 
 print("This game is designed to help in visualizing the leetcode task #1284. The red squares represent values of 1 in the matrix, while white squares represent 0. The user applies the defined transformation from the task by clicking on the square he wishes to act upon.")
-print('The input is a binary matrix of size mxn with the user inputing the values of m and n. (m, n are integers where m > 0 and n < 4)')
+print('The input is a binary matrix of size mxn (m, n are integers where m > 0 and n < 4).')
 print('Please enter the value for m:')
 m = int(input())
 print('Please enter the value for n')
